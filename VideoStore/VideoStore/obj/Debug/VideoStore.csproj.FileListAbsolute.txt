@@ -1,0 +1,165 @@
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\VideoStore.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\VideoStore.pdb
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Antlr3.Runtime.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.AspNet.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.Core.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.OAuth.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.OpenId.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\EntityFramework.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Microsoft.Data.Edm.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Microsoft.Data.OData.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Newtonsoft.Json.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Net.Http.Formatting.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Spatial.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Helpers.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Http.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Http.OData.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Http.WebHost.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Mvc.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Optimization.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Razor.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.WebPages.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.WebPages.Razor.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\WebGrease.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\WebMatrix.Data.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\WebMatrix.WebData.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\EntityFramework.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Newtonsoft.Json.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Net.Http.Formatting.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Helpers.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Http.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Http.WebHost.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Mvc.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Razor.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.WebPages.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.WebPages.Razor.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\WebMatrix.Data.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\WebMatrix.WebData.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.AspNet.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.Core.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.OAuth.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.OpenId.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Web.Http.OData.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Microsoft.Data.Edm.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\Microsoft.Data.OData.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\System.Spatial.xml
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\de\System.Spatial.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\es\System.Spatial.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\fr\System.Spatial.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\it\System.Spatial.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\ja\System.Spatial.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\ko\System.Spatial.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\ru\System.Spatial.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.dll
+c:\users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.pdb
+C:\Users\patilv\documents\visual studio 2012\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.csprojResolveAssemblyReference.cache
+D:\VideoStore\VideoStore\VideoStore\bin\VideoStore.dll.config
+D:\VideoStore\VideoStore\VideoStore\bin\VideoStore.dll
+D:\VideoStore\VideoStore\VideoStore\bin\VideoStore.pdb
+D:\VideoStore\VideoStore\VideoStore\bin\Antlr3.Runtime.dll
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.AspNet.dll
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.Core.dll
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.OAuth.dll
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.OpenId.dll
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\VideoStore\VideoStore\VideoStore\bin\EntityFramework.dll
+D:\VideoStore\VideoStore\VideoStore\bin\Microsoft.Data.Edm.dll
+D:\VideoStore\VideoStore\VideoStore\bin\Microsoft.Data.OData.dll
+D:\VideoStore\VideoStore\VideoStore\bin\Microsoft.Web.Infrastructure.dll
+D:\VideoStore\VideoStore\VideoStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VideoStore\VideoStore\VideoStore\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\VideoStore\VideoStore\VideoStore\bin\Newtonsoft.Json.dll
+D:\VideoStore\VideoStore\VideoStore\bin\System.Spatial.dll
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.Helpers.dll
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.Http.OData.dll
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.Mvc.dll
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.Optimization.dll
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.Razor.dll
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.WebPages.Deployment.dll
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.WebPages.dll
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.WebPages.Razor.dll
+D:\VideoStore\VideoStore\VideoStore\bin\WebGrease.dll
+D:\VideoStore\VideoStore\VideoStore\bin\WebMatrix.Data.dll
+D:\VideoStore\VideoStore\VideoStore\bin\WebMatrix.WebData.dll
+D:\VideoStore\VideoStore\VideoStore\bin\EntityFramework.xml
+D:\VideoStore\VideoStore\VideoStore\bin\Newtonsoft.Json.xml
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.Helpers.xml
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.Mvc.xml
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.Razor.xml
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.WebPages.xml
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.WebPages.Deployment.xml
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.WebPages.Razor.xml
+D:\VideoStore\VideoStore\VideoStore\bin\WebMatrix.Data.xml
+D:\VideoStore\VideoStore\VideoStore\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\VideoStore\VideoStore\VideoStore\bin\WebMatrix.WebData.xml
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.AspNet.xml
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.Core.xml
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.OAuth.xml
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.OpenId.xml
+D:\VideoStore\VideoStore\VideoStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\VideoStore\VideoStore\VideoStore\bin\System.Web.Http.OData.xml
+D:\VideoStore\VideoStore\VideoStore\bin\Microsoft.Data.Edm.xml
+D:\VideoStore\VideoStore\VideoStore\bin\Microsoft.Data.OData.xml
+D:\VideoStore\VideoStore\VideoStore\bin\System.Spatial.xml
+D:\VideoStore\VideoStore\VideoStore\bin\de\Microsoft.Data.Edm.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\es\Microsoft.Data.Edm.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\it\Microsoft.Data.Edm.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\de\Microsoft.Data.OData.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\es\Microsoft.Data.OData.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\fr\Microsoft.Data.OData.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\it\Microsoft.Data.OData.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\ja\Microsoft.Data.OData.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\ko\Microsoft.Data.OData.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\ru\Microsoft.Data.OData.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\de\System.Spatial.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\es\System.Spatial.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\fr\System.Spatial.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\it\System.Spatial.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\ja\System.Spatial.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\ko\System.Spatial.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\ru\System.Spatial.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\zh-Hans\System.Spatial.resources.dll
+D:\VideoStore\VideoStore\VideoStore\bin\zh-Hant\System.Spatial.resources.dll
+D:\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.csprojResolveAssemblyReference.cache
+D:\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.dll
+D:\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.pdb

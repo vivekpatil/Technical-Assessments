@@ -1,0 +1,7 @@
+c:\Users\Vivek\documents\visual studio 2013\Projects\Puzzles\PuzzlesTest\obj\Debug\PuzzlesTest.csprojResolveAssemblyReference.cache
+c:\Users\Vivek\documents\visual studio 2013\Projects\Puzzles\PuzzlesTest\bin\Debug\PuzzlesTest.dll
+c:\Users\Vivek\documents\visual studio 2013\Projects\Puzzles\PuzzlesTest\bin\Debug\PuzzlesTest.pdb
+c:\Users\Vivek\documents\visual studio 2013\Projects\Puzzles\PuzzlesTest\bin\Debug\Puzzles.exe
+c:\Users\Vivek\documents\visual studio 2013\Projects\Puzzles\PuzzlesTest\bin\Debug\Puzzles.pdb
+c:\Users\Vivek\documents\visual studio 2013\Projects\Puzzles\PuzzlesTest\obj\Debug\PuzzlesTest.dll
+c:\Users\Vivek\documents\visual studio 2013\Projects\Puzzles\PuzzlesTest\obj\Debug\PuzzlesTest.pdb

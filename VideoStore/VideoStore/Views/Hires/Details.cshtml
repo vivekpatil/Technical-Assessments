@@ -1,0 +1,43 @@
+﻿@model VideoStore.Models.Hire
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Hire</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.User.FirstName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.User.FirstName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Video.Title)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Video.Title)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.HireDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.HireDate)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ReturnDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ReturnDate)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
